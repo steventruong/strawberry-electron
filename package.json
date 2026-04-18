@@ -1,0 +1,32 @@
+{
+  "name": "strawberry-electron",
+  "version": "1.0.0",
+  "description": "Electron SDK for Strawberry analytics, error tracking, and app lifecycle capture. Main + renderer process support via preload bridge.",
+  "main": "src/index.js",
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=16"
+  },
+  "peerDependencies": {
+    "electron": ">=20.0.0"
+  },
+  "keywords": [
+    "analytics",
+    "observability",
+    "error-tracking",
+    "electron",
+    "desktop",
+    "strawberry"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steventruong/strawberry-electron.git"
+  },
+  "homepage": "https://github.com/steventruong/strawberry-electron",
+  "bugs": "https://github.com/steventruong/strawberry-electron/issues"
+}
