@@ -5,8 +5,10 @@ Analytics SDK for Electron desktop apps. Captures main process lifecycle events,
 ## Installation
 
 ```bash
-npm install strawberry-electron
+npm install github:steventruong/strawberry-electron#v1.0.0
 ```
+
+Requires `electron >= 20`.
 
 ## Quick Start (Main Process)
 
